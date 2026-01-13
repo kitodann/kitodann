@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kitodann
 - 👀 I’m interested in Javascript|PHP|React|Vue|Three|Node|CSS|HTML|APIs blockchain, smart contracts, cross-chain platform, NFTs and gaming
 - 🌱 I’m currently learning Node, Git, Javascript, PHP, React, CSS...
-- 💞️ I’m looking to collaborate on gaming projects, especially. For now I am gladly working in my first job as a Dev|ScrumMaster (I know this is not ideal)
+- 💞️ I’m looking to collaborate on gaming projects, especially. For now I am gladly working at my second job as a Dev|ScrumMaster
   but am having a blast and hope to learn more and more and grow as a Dev.
   
 <!---
